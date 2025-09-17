@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "iostream": "cpp"
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
+}

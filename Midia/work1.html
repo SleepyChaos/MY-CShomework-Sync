@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>wkm</title>
+    <style>
+        body {
+            background: rgb(124, 74, 74);
+        }
+        myCanvas{
+            background-color: white;
+        }
+
+    </style>
+</head>
+<body>
+  <canvas id="myCanvas" wideh="600" height="400"></canvas>  
+  <script>
+    var canvas = document.getElementById('myCanvas'),
+        context = canvas.getContext('2d');
+        context.font="50px sans-serif";
+        context.fillText("Hello", 400, 800);
+        
+  </script>
+</body>
+</html>

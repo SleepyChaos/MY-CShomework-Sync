@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "WorkerService1.sln",
+    "dotnet.preferCSharpExtension": true
+}
