@@ -1,0 +1,26 @@
+# OS and local IDE state
+.DS_Store
+Thumbs.db
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET and MAUI generated outputs
+[Bb]in/
+[Oo]bj/
+TestResults/
+artifacts/
+
+# Local build products
+*.exe
+*.dll
+*.pdb
+*.obj
+*.o
+
+# Local package and runtime caches
+node_modules/
+.env
+.env.local

@@ -1,8 +1,0 @@
-F:\教学\C# 程序设计\C#课件与案例\C#项目案例：arduino交互\arduinoSample\arduinoSample\bin\Debug\arduinoSample.exe
-F:\教学\C# 程序设计\C#课件与案例\C#项目案例：arduino交互\arduinoSample\arduinoSample\bin\Debug\arduinoSample.pdb
-F:\教学\C# 程序设计\C#课件与案例\C#项目案例：arduino交互\arduinoSample\arduinoSample\obj\x86\Debug\arduinoSample.MainForm.resources
-F:\教学\C# 程序设计\C#课件与案例\C#项目案例：arduino交互\arduinoSample\arduinoSample\obj\x86\Debug\arduinoSample.Properties.Resources.resources
-F:\教学\C# 程序设计\C#课件与案例\C#项目案例：arduino交互\arduinoSample\arduinoSample\obj\x86\Debug\arduinoSample.csproj.GenerateResource.Cache
-F:\教学\C# 程序设计\C#课件与案例\C#项目案例：arduino交互\arduinoSample\arduinoSample\obj\x86\Debug\arduinoSample.exe
-F:\教学\C# 程序设计\C#课件与案例\C#项目案例：arduino交互\arduinoSample\arduinoSample\obj\x86\Debug\arduinoSample.pdb
-F:\教学\C# 程序设计\C#课件与案例\C#项目案例：arduino交互\arduinoSample\arduinoSample\obj\x86\Debug\arduinoSample.csprojResolveAssemblyReference.cache
